@@ -10,3 +10,5 @@
 | **Wow Factor** | AI predicts attacks before they happen | Train AI without seeing the data | AI rewrites 30-year-old COBOL |
 | **MVP Scope** | React dashboard + FastAPI + LSTM demo | Next.js consent UI + Flower FL demo | COBOL→Python viewer + Kong gateway |
 | **Scale Impact** | Protects critical national infrastructure | Unlocks $50B in locked health data | Saves $billions in modernization cost |
+
+
